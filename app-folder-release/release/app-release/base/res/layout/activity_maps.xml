@@ -1,0 +1,36 @@
+
+ş
+9
+android*http://schemas.android.com/apk/res/androidRelativeLayout"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ*
+
+    *ï
+æButton"t
+*http://schemas.android.com/apk/res/android
+background@color/colorPrimary"(Ô„2
+«€øcolor/colorPrimary"c
+*http://schemas.android.com/apk/res/androidid@+id/shoListBtn"(Ğ„2
+ œøid/shoListBtn"X
+*http://schemas.android.com/apk/res/androidlayout_alignParentToptrue"(Œƒ„2:@"Z
+*http://schemas.android.com/apk/res/androidlayout_centerHorizontaltrue"(ƒ„2:@"a
+*http://schemas.android.com/apk/res/androidlayout_heightwrap_content"(õ„2:0şÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthwrap_content"(ô„2:0şÿÿÿÿÿÿÿÿ"B
+*http://schemas.android.com/apk/res/androidtext	Show list(Ï‚„"t
+*http://schemas.android.com/apk/res/android	textColor@android:color/white"(˜„2
+‹€˜android:color/white"L
+*http://schemas.android.com/apk/res/android	textStylebold"(—„2:8*
+
+
+.*Ñ
+Ê
+9
+android*http://schemas.android.com/apk/res/androidfragment"U
+*http://schemas.android.com/apk/res/androidid@+id/map"(Ğ„2
+÷€œøid/map"a
+*http://schemas.android.com/apk/res/androidlayout_heightmatch_parent"(õ„2:0ÿÿÿÿÿÿÿÿÿ"`
+*http://schemas.android.com/apk/res/androidlayout_widthmatch_parent"(ô„2:0ÿÿÿÿÿÿÿÿÿ"g
+*http://schemas.android.com/apk/res/androidname.com.google.android.gms.maps.SupportMapFragment(ƒ€„*
+
+
+/
